@@ -1,4 +1,8 @@
+
 ## Rajeshwari.D
+
+##Edited by MKG
+
 #----------------------------------------------------------------
 # R script for Coursera, Getting and Cleaning Data, Final Project
 #----------------------------------------------------------------
